@@ -1,15 +1,15 @@
-- title: "Causes and consequences of mitochondrial proteome size variation in animals"
+- title: "Multiple losses of MSH1, gain of mtMutS, and other changes in the MutS family of DNA repair proteins in animals"
   image: dummy.png
-  description: 
+  description:
   authors: Muthye V and DV Lavrov
   link:
-    url: https://doi.org/10.1016/j.mito.2020.02.007
-    display: Mitochondrion 52, 2020
+    url: https://doi.org/10.1093/gbe/evab1917
+    display: Genome Biology and Evolution, 2021
   highlight: 0
 
 - title: "MMPdb and MitoPredictor: Tools for facilitating comparative analysis of animal mitochondrial proteomes"
   image: dummy.png
-  description: 
+  description:
   authors: Muthye V and DV Lavrov
   link:
     url: https://doi.org/10.1016/j.mito.2020.01.001
@@ -18,7 +18,7 @@
 
 - title: "Phylogenetic relationships of heteroscleromorph demosponges and the affinity of the genus Myceliospongia (Demospongiae incertae sedis)"
   image: dummy.png
-  description: 
+  description:
   authors: Lavrov DV, Maldonado M, Perez T, and C. Morrow
   link:
     url: https://doi.org/10.1101/793372
@@ -31,7 +31,7 @@
   authors: Muthye V and DV Lavrov
   link:
     url: https://doi.org/10.1002/iub.1961
-    display: IUBMB Life 70, 2018. 
+    display: IUBMB Life 70, 2018.
   highlight: 1
 
 - title: "Mitochondrial Genomes in Invertebrate Animals"
@@ -73,7 +73,7 @@
 
 - title: "Extensive Mitochondrial mRNA Editing and Unusual Mitochondrial Genome Organization in Calcaronean Sponges"
   image: mRNA_editing.jpg
-  description: Report of our discovery of a highly unusual mRNA editing in mitochondria of calcaronean sponges. 
+  description: Report of our discovery of a highly unusual mRNA editing in mitochondria of calcaronean sponges.
   authors: Lavrov DV, Adamski M, Chevaldonné P, Adamska M.
   link:
     url: https://doi.org/10.1016/j.cub.2015.11.043

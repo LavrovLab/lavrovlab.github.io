@@ -8,23 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Triston Walsh
-  photo: bio-photo.jpg
-  info: Research assistant
-  email: tjwalsh@iastate.edu  
-  number_educ: 0
-  education1:
-
 - name: William Winnett
   photo: bio-photo.jpg
   info: Research assistant
-  email: wwinnett@iastate.edu  
+  email: wwinnett@iastate.edu
   number_educ: 0
   education1:
 
-- name: Isabella Mathias
+- name: Amanda Bonczkowski
   photo: bio-photo-f.jpg
   info: Research assistant
-  email: mathias@iastate.edu  
+  email: amandab2@iastate.edu
   number_educ: 0
-  education1:
+  education1: 

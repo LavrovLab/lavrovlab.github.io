@@ -1,8 +1,15 @@
+- date: August 17, 2021
+  headline: "New paper \"Multiple losses of MSH1, gain of mtMutS, and other changes in the MutS family of DNA repair proteins in animals"
+  <a href='https://doi.org/10.1093/gbe/evab191'> in Genome Biology and Evolution </a>."
+
+- date: January 15, 2021
+  headline: "Mudith Ekanayake joins the lab as a Ph.D. student. Welcome, Mudith!"
+
 - date: September 18, 2020
   headline: "Mudith Ekanayake joins the lab as a rotation student. Welcome, Mudith!"
 
 - date: March 6, 2020
-  headline: "Another paper in Mitochondrion! \"Causes and consequences of mitochondrial proteome size-variation in animals\": 
+  headline: "Another paper in Mitochondrion! \"Causes and consequences of mitochondrial proteome size-variation in animals\":
   <a href='https://doi.org/10.1016/j.mito.2020.02.007'> Mitochondrion 52:100-107</a>."
 
 - date: February 3, 2020
@@ -24,13 +31,13 @@
   headline: "Our new paper, \"Causes and consequences of mitochondrial proteome size-variation in animals\" is published <a href='https://www.biorxiv.org/content/10.1101/829127v1'> in BioRxiv</a>."
 
 - date: October 26, 2019
-  headline: "Viraj Mutye's dissertation is approved!  Congratulations Dr. Mutye!" 
+  headline: "Viraj Mutye's dissertation is approved!  Congratulations Dr. Mutye!"
 
 - date: October 18, 2019
   headline: "Axelle, Merritt, and Dennis presented at the Regional Cornbelt RNA Meeting. <img src='/images/newspic/cornbelt.jpg' class='img-responsive' style='max-width: 192px' />"
 
 - date: October 5, 2019
-  headline: "The mystery of Myceliospongia is solved, cox2 and rnl mt-introns, and other cool stuff in our new paper on <a href='https://www.biorxiv.org/content/10.1101/793372v1'> phylogeny and evolution of demosponges!</a>." 
+  headline: "The mystery of Myceliospongia is solved, cox2 and rnl mt-introns, and other cool stuff in our new paper on <a href='https://www.biorxiv.org/content/10.1101/793372v1'> phylogeny and evolution of demosponges!</a>."
 
 - date: September 20, 2019
   headline: "Mahsa Hemmat joins the lab as a rotation student. Welcome, Mahsa!"
@@ -39,6 +46,5 @@
   headline: "<b>New website on GitHub!</b>"
 
 # - date: 13. December 2018
-# headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>. 
+# headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>.
 #<img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
-

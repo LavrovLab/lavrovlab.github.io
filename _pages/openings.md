@@ -10,16 +10,21 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-### Current open positions
+### Postdoctoral position
 
-A postdoc postion in Evolutionary Mitochondrial Biology is currently 
-[open](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Evolutionary-Mitochondrial-Biology_R525) 
-in our lab.
+A postdoc position in Mitochondrial Biology is expected to open soon.
+Please [email me](mailto:dennis.lavrov@gmail.com), if interested.
+<!-- [open](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Evolutionary-Mitochondrial-Biology_R525)
+in our lab. -->
 
-### Applications for Ph.D. positions
+### Graduate students
 
-If you are interested in working with us as a PhD student, please send me an [email](mailto:dennis.lavrov@gmail.com). 
-State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. 
+If you are interested in working with us as a graduate student, please send me an [email](mailto:dennis.lavrov@gmail.com).
+State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate.
+
+### Undergraduate students
+
+We are always looking for motivated undegraduate students to help with the research. Send your resume and a cover letter describing your interests in biology by [email](mailto:dennis.lavrov@gmail.com).
 
 <!--
 <figure>
