@@ -1,7 +1,7 @@
-- name: Walker Pett
-  photo: will.jpg
-  duration: Now postdoc in Tracy Heath Lab
-  info: PhD student
+- name: Xiujuan Wang
+  photo: xiujuan.jpg
+  duration: Works at Dow Agrosciences
+  info: PhD in Genetics and BCB, 2009
   email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: Leidse instrumentmakers School
@@ -9,14 +9,79 @@
   education3:
   education4:
 
+- name: Karri Haen
+  photo: karri.jpg
+  duration: Associate Chair for Teaching and Teaching Professor
+  info: PhD in Genetics, 2010
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: Leidse instrumentmakers School
+  education2:
+  education3:
+  education4:
+
+- name: Romulo Segovia
+  photo: romulo.jpg
+  duration: Now postdoc in Tracy Heath Lab
+  info: Master in Genetics, 2010
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: Leidse instrumentmakers School
+  education2:
+  education3:
+  education4:
+
+- name: Ehsan Kayal
+  photo: ehsan.jpg
+  duration: Now postdoc in Tracy Heath Lab
+  info: PhD in EEB, 2012
+  email:
+  number_educ: 1
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Walker Pett
+  photo: will.jpg
+  duration: Now postdoc in Tracy Heath Lab
+  info: PhD in BCB, 2014
+  email:
+  number_educ: 1
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Viraj Muthye
+  photo: viraj2.jpg
+  duration: Now postdoc in Tracy Heath Lab
+  info: PhD in BCB, 2019; Postdoc 2019-2021
+  email: vrmuthye@iastate.edu
+  number_educ: 3
+  education1: Bachelor in Biotechnology from Mumbai University
+  education2: Master in Biotechnology from Northwestern University with Dr. Cianciotto
+  education3: PhD in Biology from Iowa State University
+
 - name: Axelle Weeger
   photo: axelle.jpg
-  duration: Now postdoc in Tracy Heath Lab
+  duration:
   info: PhD Student, started May 2019
   email: aweeger@iastate.edu
   number_educ: 2
   education1: Bachelor in Animal Biology, University of California at Davis
   education2: Master in Genetics and Genomics, Iowa State University
+  education3:
+  education4:
+
+- name: Merritt Polomsky
+  photo: merritt.jpg
+  duration: Graduated in December 2021
+  info: Master in Genetics and Genomics, 2021
+  email: Merrittp@iastate.edu
+  number_educ: 1
+  education1: Bachelor in Genetics, Iowa State University
+  education2:
   education3:
   education4:
 
@@ -27,9 +92,9 @@
   number_educ: 0
   education1:
 
-- name: Isabella Mathias
-  photo: bio-photo-f.jpg
+- name: William Winnett
+  photo: bio-photo.jpg
   info: Research assistant
-  email: mathias@iastate.edu
+  email: wwinnett@iastate.edu
   number_educ: 0
   education1:

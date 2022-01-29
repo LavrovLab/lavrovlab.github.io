@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: William Winnett
-  photo: bio-photo.jpg
-  info: Research assistant
-  email: wwinnett@iastate.edu
-  number_educ: 0
-  education1:
-
 - name: Amanda Bonczkowski
   photo: bio-photo-f.jpg
   info: Research assistant
   email: amandab2@iastate.edu
   number_educ: 0
-  education1: 
+  education1:
+
+- name: Zeaan Pithawala
+  photo: zeaan.jpg
+  info: Research intern
+  email: zeaanpithawala13@gmail.com
+  number_educ: 0
+  education1:

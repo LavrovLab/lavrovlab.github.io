@@ -24,7 +24,8 @@ State briefly why you are interested and attach a CV, including information abou
 
 ### Undergraduate students
 
-We are always looking for motivated undegraduate students to help with the research. Send your resume and a cover letter describing your interests in biology by [email](mailto:dennis.lavrov@gmail.com).
+We are always looking for motivated undegraduate students to help with the research.
+Send your resume and a cover letter describing your interests in biology by [email](mailto:dennis.lavrov@gmail.com).
 
 <!--
 <figure>
