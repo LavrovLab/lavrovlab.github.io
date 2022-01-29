@@ -1,5 +1,5 @@
 - name: McKenzie N. Wishman
-  photo: bio-photo-f.jpg
+  photo: mckenzie.jpg
   info: Master Student, started Jan 2020
   email: wishman@iastate.edu
   number_educ: 1
@@ -22,7 +22,7 @@
 #
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: bio-photo-f.jpg
   info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
   email: dlavrov@iastate.edu
   number_educ: 0
