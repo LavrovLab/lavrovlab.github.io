@@ -13,18 +13,18 @@ Our group studies evolution and phylogeny of non-bilaterian animals -- *i.e.*, a
 While morphologically simple and moderately speciose, these groups harbor a large portion of animal genomic diversity that we are only now beginning to explore.
 Our research can be divided into three major areas: 1) comparative genomics, the comparison of biological information derived from whole-genome sequences, 2) phylogenetics, the study of evolutionary relationships among organisms (aka Tree of Life), and 3) mito-nuclear coevolution – exploration of interdependence between changes in nuclear and mitochondrial genomes.
 Our research is highly integrative and includes field sampling, wet-lab work, and bioinformatic analysis.
-We have also been involved in multiple collaborations on the national and international levels.  
+We have also been involved in multiple collaborations on the national and international levels.
 Ongoing projects include:
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/sponge.jpg){: style="width: 300px; float: right; border: 10px"}
 
 ## Comparative mitochondrial genomics of non-bilaterian animals.
-Mitochondrial DNA of bilaterian animals is typically a small, circular-mapping molecule that encodes 37 tightly packed genes.  
-MtDNA of the choanoflagellate _Monosiga brevicollis_, the closest unicellular out-group, is four times larger and contains 1.5 times as many genes.  
-We investigated this remarkable transition in mtDNA evolutionby focusing on non-bilaterian animals (phyla Placozoa, Porifera, Ctenophora, and Cnidaria).  
+Mitochondrial DNA of bilaterian animals is typically a small, circular-mapping molecule that encodes 37 tightly packed genes.
+MtDNA of the choanoflagellate _Monosiga brevicollis_, the closest unicellular out-group, is four times larger and contains 1.5 times as many genes.
+We investigated this remarkable transition in mtDNA evolutionby focusing on non-bilaterian animals (phyla Placozoa, Porifera, Ctenophora, and Cnidaria).
 Our analyses revealed a large extent of mitochondrial diversity in these groups.
-We discovered such unusual features as mitochondrial introns, putative transposable elements, translational frameshifting, fragmented ribosomal RNA (rRNA) genes, transfer RNA (tRNA) gene recruitment, tRNA and mRNA editing.  
-We also found several cases of parallel evolution in mitochondrial genome organization in different groups.  
+We discovered such unusual features as mitochondrial introns, putative transposable elements, translational frameshifting, fragmented ribosomal RNA (rRNA) genes, transfer RNA (tRNA) gene recruitment, tRNA and mRNA editing.
+We also found several cases of parallel evolution in mitochondrial genome organization in different groups.
 Such cases can help to elucidate molecular and evolutionary forces responsible for unusual features in animal mtDNA, some of which have been implicated in human diseases. Check out \href{https://doi.org/10.1093/gbe/evw195}{our review} on the topic to learn more.
 
 ## Function and evolution of mt-mutS in octocorals}:  
@@ -37,7 +37,7 @@ Initial results of this research have been published in \href{https://doi.org/10
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/protein.jpg){: style="width: 300px; float: left; border: 10px"}
 ## Evolution of mitochondrial proteome.  
-In the 30 years since the first animal mtDNA has been published, we have learned a great deal about the evolution of mitochondrial genomes. However, because mtDNA encodes only a tiny fraction of mitochondrial proteins, the evolution of mitochondrial proteome remains largely unexplored. From the evolutionary viewpoint, this proteome represents an interesting system as it is made out of interacting components encoded by two genomes with different rates and modes of evolution and because some analogous molecules (e.g., components of the translation machinery) are encoded in both nuclear and mitochondrial DNA. We investigate both specific mitonuclear interactions, such co-evolution of nuclear-encoded aminoacyl-tRNA synthetases (aa-RS) and mitochondrial-encoded tRNAs (e.g., https://doi.org/10.1093/gbe/evv124}{Pett and Lavrov, 2015}) and overall mitochondrial proteome evolution ({https://doi.org/10.1002/iub.1961}{Muthye and Lavrov, 2018}). We also develop tools for bioinformatic identification of mitochondrial proteins ({https://doi.org/10.1016/j.mito.2020.01.001}{Muthye et al. 2020}).
+In the 30 years since the first animal mtDNA has been published, we have learned a great deal about the evolution of mitochondrial genomes. However, because mtDNA encodes only a tiny fraction of mitochondrial proteins, the evolution of mitochondrial proteome remains largely unexplored. From the evolutionary viewpoint, this proteome represents an interesting system as it is made out of interacting components encoded by two genomes with different rates and modes of evolution and because some analogous molecules (e.g., components of the translation machinery) are encoded in both nuclear and mitochondrial DNA. We investigate both specific mitonuclear interactions, such co-evolution of nuclear-encoded aminoacyl-tRNA synthetases (aa-RS) and mitochondrial-encoded tRNAs (e.g., \href{https://doi.org/10.1093/gbe/evv124}{Pett and Lavrov, 2015}) and overall mitochondrial proteome evolution (\href{https://doi.org/10.1002/iub.1961}{Muthye and Lavrov, 2018}). We also develop tools for bioinformatic identification of mitochondrial proteins (\href{https://doi.org/10.1016/j.mito.2020.01.001}{Muthye et al. 2020}).
 
 ## tRNA import in animal mitochondria
 While mtDNA in most bilaterian animals encodes a complete set of tRNA genes needed for mitochondrial translation, three out of the four main lineages of nonbilaterian animals experienced significant losses of mt-tRNA genes. All mt-tRNA genes have been lost in Ctenophora, all but one or two mt-tRNA genes have been lost in Cnidarian, and a variable number of tRNA genes has been lost in sponges. Interestingly, while in most of these lineages, mt-tRNA loss has occurred early in evolution and the number of tRNA genes has been conserved thereafter, a group of haplosclerid sponges shows a large variation in the number of mt-tRNA genes among closely related species. We are taking advantage of this variation to identify components of mitochondrial tRNA import system need to import cy-tRNA replacements for lost mt-tRNAs. We then plan to investigate evolution of this system in other animal groups.
