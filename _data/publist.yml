@@ -1,10 +1,19 @@
+- title: "Large dataset of octocoral mitochondrial genomes provides new insights into mt-mutS evolution and function"
+  image: dummy.png
+  description: Among other things, the first octocoral mtDNA without mt-mutS
+  authors: Muthye V, Mackereth CD, Stewart JB, and DV Lavrov
+  link:
+    url: https://doi.org/10.1016/j.dnarep.2022.103273
+    display: DNA repair, 110, 2022
+  highlight: 0
+
 - title: "Multiple losses of MSH1, gain of mtMutS, and other changes in the MutS family of DNA repair proteins in animals"
   image: dummy.png
   description:
   authors: Muthye V and DV Lavrov
   link:
     url: https://doi.org/10.1093/gbe/evab191
-    display: Genome Biology and Evolution, 2021
+    display: Genome Biology and Evolution, 13 (9), 2021
   highlight: 0
 
 - title: "Causes and consequences of mitochondrial proteome size variation in animals"

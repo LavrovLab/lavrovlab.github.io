@@ -17,14 +17,13 @@ Ongoing projects include:
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/sponge.jpg){: style="width: 300px; float: right; border: 10px"}
 
-## Comparative mitochondrial genomics of non-bilaterian animals.
+## Phylomitogenomics and comparative mitochondrial genomics of non-bilaterian animals.
 Mitochondrial DNA of bilaterian animals is typically a small, circular-mapping molecule that encodes 37 tightly packed genes.
 MtDNA of the choanoflagellate _Monosiga brevicollis_, the closest unicellular out-group, is four times larger and contains 1.5 times as many genes.
 We investigated this remarkable transition in mtDNA evolutionby focusing on non-bilaterian animals (phyla Placozoa, Porifera, Ctenophora, and Cnidaria).
-Our analyses revealed a large extent of mitochondrial diversity in these groups.
-We discovered such unusual features as mitochondrial introns, putative transposable elements, translational frameshifting, fragmented ribosomal RNA (rRNA) genes, transfer RNA (tRNA) gene recruitment, tRNA and mRNA editing.
-We also found several cases of parallel evolution in mitochondrial genome organization in different groups.
-Such cases can help to elucidate molecular and evolutionary forces responsible for unusual features in animal mtDNA, some of which have been implicated in human diseases. Check out [our review](https://doi.org/10.1093/gbe/evw195) on the topic to learn more.
+Check out [our review](https://doi.org/10.1093/gbe/evw195) on the topic to learn more.
+We also use coding sequences from mt-genomes to infer phylogeny within and among non-bilaterian animals.
+In particular, we created and maintain a [website](https://lavrovlab.github.io/Demosponge-phylogeny/) on phylomitogenomics of demosponges.
 
 ## Function and evolution of mt-mutS in octocorals:  
 Typically, animal mitochondrial DNA (mtDNA) has a higher substitution rate than nuclear DNA, with the accumulation of mtDNA mutations being one of the hallmarks of aging.
