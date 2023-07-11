@@ -1,11 +1,11 @@
 - name: Ehsan Kayal
-photo: ehsan2.jpg
-info: Postdoc, started October 2022
-email: ekayal@iastate.edu
-number_educ: 3
-education1: Bachelor in Biology from Université Paris Cité
-education2: Pierre and Marie Curie University
-education3: PhD in Biology from Iowa State University
+  photo: ehsan2.jpg
+  info: Postdoc, started October 2022
+  email: ekayal@iastate.edu
+  number_educ: 3
+  education1: Bachelor in Biology from Université Paris Cité
+  education2: Pierre and Marie Curie University
+  education3: PhD in Biology from Iowa State University
 
 #- name: Viraj Muthye
 #  photo: viraj2.jpg
