@@ -20,11 +20,11 @@
 #  education2: Master in Animal Biosystematics, Shahid Beheshti University, Iran
 #
 
-- name: "This could be you !"
-  photo: bio-photo-f.jpg
-  info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
-  email: dlavrov@iastate.edu
-  number_educ: 0
+# - name: "This could be you !"
+#   photo: bio-photo-f.jpg
+#   info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
+#   email: dlavrov@iastate.edu
+#   number_educ: 0
 #  education1:
 #  education2:
 #  education3:

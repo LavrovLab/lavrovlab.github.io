@@ -1,3 +1,12 @@
+name: Ehsan Kayal
+photo: ehsan2.jpg
+info: Postdoc, started October 2022
+email: ekayal@iastate.edu
+number_educ: 3
+education1: Bachelor in Biology from Université Paris Cité
+education2: Pierre and Marie Curie University
+education3: PhD in Biology from Iowa State University
+
 #- name: Viraj Muthye
 #  photo: viraj2.jpg
 #  info: Postdoc, started November 2019
@@ -7,33 +16,7 @@
 #  education2: Master in Biotechnology from Northwestern University with Dr. Cianciotto
 #  education3: PhD in Biology from Iowa State University
 #
-#- name: Vincent Stalman
-#  photo: Photo Vincent.jpg
-#  info: PhD Student, started November 2018
-#  email: stalman@physics.leidenuniv.nl
-#  number_educ: 1
-#  education1: Master University of Amsterdam with Diego Hofman
-#  education2:
-#  education3:
-#  education4:
-#
-#- name: Kees van Oosten
-#  photo: DSC_1032.JPG
-#  info: Fine mechanical engineer associated with the FMD working in our group
-#  email: Oosten@fmd.physics.leidenuniv.nl
-#  number_educ: 2
-#  education1: Leidse instrumentmakers School
-#  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-#
-#- name: Freek Groenewoud
-#  photo: Freek.jpg
-#  info: Fine mechanical engineer associated with the FMD working in our group
-#  email: Groenewoud@physics.leidenuniv.nl
-#  number_educ: 2
-#  education1: Leidse Instrumentmaker School
-#  education2: Mechanical Engineer , Hogeschool  Delft
-#  education3:
-#  education4:
+
 #
 #- name: "This could be you !"
 #  photo: rock.jpg
