@@ -1,19 +1,16 @@
-- name: "This could be you !"
- photo: rock.jpg
- info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
- email: dlavrov@iastate.edu
- number_educ: 0
- education1:
- education2:
- education3:
- education4:
+- name: Amanda Bonczkowski
+  photo: bio-photo-f.jpg
+  info: Research assistant
+  email: amandab2@iastate.edu
+  number_educ: 0
+  education1:
 
-# - name: Amanda Bonczkowski
-#   photo: bio-photo-f.jpg
-#   info: Research assistant
-#   email: amandab2@iastate.edu
-#   number_educ: 0
-#   education1:
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
+  email: dlavrov@iastate.edu
+  number_educ: 0
+  education1:
 
 # - name: Zeaan Pithawala
 #   photo: zeaan.jpg
