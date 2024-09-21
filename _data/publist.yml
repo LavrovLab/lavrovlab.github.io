@@ -1,11 +1,38 @@
-- title: "Large dataset of octocoral mitochondrial genomes provides new insights into mt-mutS evolution and function"
+- title: "Mitochondrial DNA of the Demosponge *Acanthella acuta*: Linear Architecture and Other Unique Features"
+  image: aacuta.png
+  description: Fourth transition to linear mtDNA architecture in animals
+  authors: Ahmed M, Kayal E, and DV Lavrov
+  link:
+    url: https://doi.org/10.1093/gbe/evae168
+    display: Genome Biology and Evolution, 16(8), 2024
+  highlight: 1
+
+- title: "Characterization of the Mitochondrial Proteome in the Ctenophore *Mnemiopsis leidyi* Using MitoPredictor"
   image: dummy.png
+  description: Bioinforamtic look at a mitochondrial proteome
+  authors: Muthye V, Mackereth CD, Stewart JB, and DV Lavrov
+  link:
+    url: https://doi.org/10.1007/978-1-0716-3642-8_10
+    display: Ctenophores. Methods in Molecular Biology, vol 2757. Humana, New York, NY.
+  highlight: 0
+
+- title: "Phylomitogenomics bolsters the high-level classification of Demospongiae (phylum Porifera)"
+  image: demos.png
+  description: Demosponge phylogeny based on mtDNA data, including a very unexpected placement of *Myceliospongia araneosa*
+  authors: Muthye V, Mackereth CD, Stewart JB, and DV Lavrov
+  link:
+    url: https://doi.org/10.1016/j.dnarep.2022.103273
+    display: DNA repair, 110, 2022
+  highlight: 1
+
+- title: "Large dataset of octocoral mitochondrial genomes provides new insights into mt-mutS evolution and function"
+  image: octos.png
   description: Among other things, the first octocoral mtDNA without mt-mutS
   authors: Muthye V, Mackereth CD, Stewart JB, and DV Lavrov
   link:
     url: https://doi.org/10.1016/j.dnarep.2022.103273
     display: DNA repair, 110, 2022
-  highlight: 0
+  highlight: 1
 
 - title: "Multiple losses of MSH1, gain of mtMutS, and other changes in the MutS family of DNA repair proteins in animals"
   image: dummy.png
@@ -124,7 +151,7 @@
   link:
     url: https://doi.org/10.1093/gbe/evv124
     display: Genome Biol Evol. 7(8):2089-101, 2015.
-  highlight: 1
+  highlight: 0
 
 - title: "The Global Invertebrate Genomics Alliance (GIGA): Developing community resources to study diverse invertebrate genomes"
   image: dummy.png
