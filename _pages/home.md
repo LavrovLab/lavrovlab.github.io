@@ -70,10 +70,10 @@ Students in our group come are involved in several interdepartmental graduate pr
 [Bioinformatics and Computational Biology](https://www.bcb.iastate.edu/), [Genetics and Genomics](https://www.genetics.iastate.edu/),
 and [Ecology and Evolutionary Biology](https://www.eeb.iastate.edu/).
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for new graduate and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from [Iowa State University](www.iastate.edu), [Human Frontiers Science Program](https://www.hfsp.org/), and previous funding from the [US National Science Foundation](https://www.nsf.gov/).
+We are grateful for previous funding from [Iowa State University](www.iastate.edu), [Human Frontiers Science Program](https://www.hfsp.org/), and the [US National Science Foundation](https://www.nsf.gov/).
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ISU.jpg" style="width: 90px">
