@@ -75,7 +75,7 @@ Jump to [PI](#pi), [Postdocs](#postdocs), [Graduate Students](#grad-students), [
 </div>
 {% endif %}
 
-## Postdoctoral fellows
+<!-- ## Postdoctoral fellows
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
@@ -127,7 +127,7 @@ Jump to [PI](#pi), [Postdocs](#postdocs), [Graduate Students](#grad-students), [
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ## Graduate Students
 {% assign number_printed = 0 %}

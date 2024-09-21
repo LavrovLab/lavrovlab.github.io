@@ -1,9 +1,16 @@
-- name: "This could be you!"
-  photo: rock.jpg
-  info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
-  email: dlavrov@iastate.edu
-  number_educ: 0
-  education1:
+- name: Olivia Lamb
+  photo: olivia.jpg
+  info: Junior in Animal Ecoloty and Biology
+  email: olamb@iastate.edu
+  number_educ: 1
+  education1: A.A., A.S. from DMACC
+
+# - name: "This could be you!"
+#   photo: rock.jpg
+#   info: See <a href="https://lavrovlab.github.io/vacancies">openings</a> for more info
+#   email: dlavrov@iastate.edu
+#   number_educ: 0
+#   education1:
 
 # - name: Zeaan Pithawala
 #   photo: zeaan.jpg
