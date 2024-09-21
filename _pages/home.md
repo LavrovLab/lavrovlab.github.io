@@ -6,13 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Iowa State University](http://www.iastate.edu). 
+We are a research group in the department of [Ecology, Evolution, and Organismal Biology](https://www.eeob.iastate.edu/) at [Iowa State University](http://www.iastate.edu). 
 Our main research interests are the evolution of major groups of animals and their genomes.  
-Our favorite animals are marine non-bilaterian taxa, including Porifera (sponges), 
+We are particularly focused on marine non-bilaterian taxa, including Porifera (sponges), 
 Cnidaria (corals, jellyfishes), and Ctenophora (comb jellies). 
-We are particularly interested in their mitochondrial biology and have characterized both 
-their mitochondrial genomes and mitochondrial proteomes (the latter include more than one 
-thousand proteins that are encoded in the nucleus, but function in mitochondria).
+While morphologically simple and moderately speciose, these groups harbor a large portion of animal genomic diversity that we are only now beginning to explore. 
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -57,21 +56,13 @@ thousand proteins that are encoded in the nucleus, but function in mitochondria)
   </a>
 </div>
 
-In our research we combine field work, bench work, and computational analysis. 
-Specific project we currently work on include (see [Research](research) for more details):
-
-- understanding variation in the rates of mtDNA evolution among animals 
-- mRNA editing in Calcaronean sponges, and 
-- mitocondrial tRNA import. 
-
-We are located at Iowa State University, in the department of 
-[Ecology, Evolution, and Organismal Biology](https://www.eeob.iastate.edu/)). 
+Our research can be divided into three major areas: 1) comparative genomics, the comparison of biological information derived from whole-genome sequences, 2) phylogenetics, the study of evolutionary relationships among organisms (aka Tree of Life), and 3) mito-nuclear coevolution – exploration of interdependence between changes in nuclear and mitochondrial genomes. 
+In our studies we combine field work, bench work, and computational analysis. 
 Students in our group come are involved in several interdepartmental graduate programs, including 
 [Bioinformatics and Computational Biology](https://www.bcb.iastate.edu/), [Genetics and Genomics](https://www.genetics.iastate.edu/),
 and [Ecology and Evolutionary Biology](https://www.eeb.iastate.edu/).
 
-**We are  looking for new graduate and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+**We are always looking for new graduate and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 We are grateful for previous funding from [Iowa State University](www.iastate.edu), [Human Frontiers Science Program](https://www.hfsp.org/), and the [US National Science Foundation](https://www.nsf.gov/).
 
