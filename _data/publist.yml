@@ -1,5 +1,5 @@
 - title: "Mitochondrial DNA of the Demosponge *Acanthella acuta*: Linear Architecture and Other Unique Features"
-  image: aacuta.png
+  image: aacuta.jpg
   description: Fourth transition to linear mtDNA architecture in animals
   authors: Ahmed M, Kayal E, and DV Lavrov
   link:
@@ -21,8 +21,8 @@
   description: Demosponge phylogeny based on mtDNA data, including a very unexpected placement of *Myceliospongia araneosa*
   authors: Muthye V, Mackereth CD, Stewart JB, and DV Lavrov
   link:
-    url: https://doi.org/10.1016/j.dnarep.2022.103273
-    display: DNA repair, 110, 2022
+    url: https://doi.org/10.1371/journal.pone.0287281
+    display: Plos one 18(12), e0287281
   highlight: 1
 
 - title: "Large dataset of octocoral mitochondrial genomes provides new insights into mt-mutS evolution and function"

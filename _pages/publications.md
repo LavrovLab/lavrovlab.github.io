@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=d-VpCbkAAAAJ), [ResearchGate](https://www.researchgate.net/))
+[Google Scholar](https://scholar.google.com/citations?user=d-VpCbkAAAAJ), [ResearchGate](https://www.researchgate.net/)
 
 ## Highlights
 
