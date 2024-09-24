@@ -6,13 +6,12 @@ sitemap: false
 permalink: /teaching/
 ---
 
-## Teaching
+# Teaching
 ### Fall 2024
 ### BIOL4950-13: Marine Biology (ongoing: [Fall 2024](https://canvas.iastate.edu/courses/113758)).
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/biol495.jpg){: style="width: 150px; float: left"}
 <br/>Comprehensive overview of marine biology. Introduction to physical and chemical oceanography as it relates to the physiology of marine organisms and their survival and reproductive strategies. Examination of the biodiversity, richness and distribution of marine life.  
-<br/><br/>
----
+<br/><br/></br>
 
 ### GEN6920: Conceptual Foundations of Genetics. (ongoing: [Fall 2024](https://canvas.iastate.edu/courses/113871)).
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/gen692.jpg){: style="width: 150px; float: left"}
