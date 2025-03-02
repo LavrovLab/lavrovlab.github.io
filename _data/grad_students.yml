@@ -1,10 +1,3 @@
-- name: Mudith Ekanayake
-  photo: mudith.jpg
-  info: Master Student in IGG, started Jan 2021
-  email: mudith@iastate.edu
-  number_educ: 1
-  education1: B.Sc. Special Degree in Bioinformatics, University of Colombo, Sri Lanka
-
 - name: Momin Ahmed
   photo: momin.jpg
   info: PhD Student in EEB, started Aug 2022
@@ -12,13 +5,20 @@
   number_educ: 1
   education1: B.Sc. in Biomedical Engineering, Riphah International University, Pakistan
 
-- name: Abdelraouf Dapour
-  photo: raouf.jpg
-  info: Rotation PhD Student in BCB, started Sep 2024
-  email: raouf@iastate.edu 
-  number_educ: 2
-  education1: Bachelor in Biotechnology, Misr University for Science and Technology, October, Egypt
-  education2: Master in Biotechnology, The American University in Cairo (AUC), Egypt
+# - name: Abdelraouf Dapour
+#   photo: raouf.jpg
+#   info: Rotation PhD Student in BCB, started Sep 2024
+#   email: raouf@iastate.edu 
+#   number_educ: 2
+#   education1: Bachelor in Biotechnology, Misr University for Science and Technology, October, Egypt
+#   education2: Master in Biotechnology, The American University in Cairo (AUC), Egypt
+
+# - name: Mudith Ekanayake
+#   photo: mudith.jpg
+#   info: Master Student in IGG, started Jan 2021
+#   email: mudith@iastate.edu
+#   number_educ: 1
+#   education1: B.Sc. Special Degree in Bioinformatics, University of Colombo, Sri Lanka
 
 #- name: Mahsa Askary Hemmat
 #  photo: bio-photo-f.jpg
