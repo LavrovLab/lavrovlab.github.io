@@ -1,6 +1,33 @@
-- title: "Mitochondrial DNA of the Demosponge *Acanthella acuta*: Linear Architecture and Other Unique Features"
+- title: "Pervasive mitochondrial tRNA gene loss in the clade B of haplosclerid sponges (Porifera, Demospongiae)"
+  image: tRNA-loss.jpg
+  description: A group of sponges with a rampant mt-tRNA loss
+  authors: Lavrov DV, Turner TL, and J Vicente
+  link:
+    url: https://doi.org/10.1093/gbe/evaf020
+    display: Genome Biology and Evolution, 2025, evaf020
+  highlight: 1
+
+- title: "Integrative taxonomy of introduced Haplosclerida and four new species from Hawaiʻi"
+  image: four-species.jpg
+  description: Not entirely sure what a species is, but here are four new ones :) 
+  authors: Vicente J, Rutkowski E, Lavrov DV, Martineau G, Timmers M, and RJ Toonen
+  link:
+    url: https://doi.org/10.11646/zootaxa.5566.2.2
+    display: Zootaxa 5566(2), p243-272, 2025
+  highlight: 1
+
+- title: "Expansion of the MutS gene family in plants"
+  image: msh1-plants.jpg
+  description: An adventure into the plant world :) 
+  authors: Sloan DB, Broz AK, Kuster SA, Muthye V, Peñafiel-Ayala A, Marron JR, Lavrov DV, and LG Brieba
+  link:
+    url: https://doi.org/10.11646/zootaxa.5566.2.2
+    display: The Plant Cell, koae277
+  highlight: 1
+  
+  - title: "Mitochondrial DNA of the Demosponge *Acanthella acuta*: Linear Architecture and Other Unique Features"
   image: aacuta.jpg
-  description: Fourth transition to linear mtDNA architecture in animals
+  description: The fourth transition to a linear mtDNA architecture in animals
   authors: Ahmed M, Kayal E, and DV Lavrov
   link:
     url: https://doi.org/10.1093/gbe/evae168
@@ -61,115 +88,7 @@
     display: Mitochondrion 51, 2020
   highlight: 0
 
-- title: "Phylogenetic relationships of heteroscleromorph demosponges and the affinity of the genus Myceliospongia (Demospongiae incertae sedis)"
-  image: dummy.png
-  description:
-  authors: Lavrov DV, Maldonado M, Perez T, and C Morrow
-  link:
-    url: https://doi.org/10.1101/793372
-    display: bioRxiv, 2019
-  highlight: 0
-
-- title: "Characterization of mitochondrial proteomes of nonbilaterian animals"
-  image: mt_proteome.jpg
-  description: Our first shot on bioinformatic characterization of mitochondrial proteomes in non-bilaterian animals (more to come).
-  authors: Muthye V and DV Lavrov
-  link:
-    url: https://doi.org/10.1002/iub.1961
-    display: IUBMB Life 70, 2018.
-  highlight: 1
-
-- title: "Mitochondrial Genomes in Invertebrate Animals"
-  image: dummy.png
-  description: ""
-  authors: Lavrov DV
-  link:
-    url: https://doi.org/10.1007/978-1-4614-1531-2_111
-    display: Molecular Life Sciences, 2018.
-  highlight: 0
-
-- title: "Mitochondrial Genomes in Unicellular Relatives of Animals"
-  image: dummy.png
-  description: ""
-  authors: Lavrov DV and BF Lang
-  link:
-    url: https://doi.org/10.1007/978-1-4614-1531-2_178
-    display: Molecular Life Sciences, 2018.
-  highlight: 0
-
-- title: "Transcriptome sequencing and delimitation of sympatric Oscarella species (O. carmela and O. pearsei sp. nov) from California, USA."
-  image: dummy.png
-  description: ""
-  authors: Ereskovsky AV, Richter DJ, Lavrov DV, Schippers KJ, Nichols SA.
-  link:
-    url: https://doi.org/10.1371/journal.pone.0183002
-    display: PLoS ONE 12(9), 2017.
-  highlight: 0
-
-- title: "Animal mitochondrial DNA as we don't know it: mt-genome organization and evolution in non-bilaterian lineages"
-  image: animal_mtDNA.png
-  description: Review of our work on mtDNA evolution in animals with focus on non-bilaterian phyla.
-  authors: DV Lavrov and W. Pett
-  link:
-    url: https://academic.oup.com/gbe/article/8/9/2896/2236489
-    display:  Genome Biology and Evolution 8, 2016.
-  highlight: 1
-  news2:
-
-- title: "Extensive Mitochondrial mRNA Editing and Unusual Mitochondrial Genome Organization in Calcaronean Sponges"
-  image: mRNA_editing.jpg
-  description: Report of our discovery of a highly unusual mRNA editing in mitochondria of calcaronean sponges.
-  authors: Lavrov DV, Adamski M, Chevaldonné P, Adamska M.
-  link:
-    url: https://doi.org/10.1016/j.cub.2015.11.043
-    display: Curr Biol. 26, 2016
-  highlight: 1
-  news2: See also <a href="https://doi.org/10.1016/j.cub.2015.11.009"> Dispatch in Curr Biol. 26, 2016 </a>
-
-- title: "Integrative taxonomic re-description of <i>Halisarca</i> <i>magellanica</i> and description of a new species of <i>Halisarca</i> (Porifera, Demospongiae) from Chilean Patagonia."
-  image: dummy.png
-  description: ""
-  authors: Willenz P, Ereskovsky AV, Lavrov DV.
-  link:
-    url: https://doi.org/10.11646/zootaxa.4208.6.1
-    display: Zootaxa. 4208(6), 2016.
-  highlight: 0
-
-- title: "Ancestral state reconstruction infers phytopathogenic origins of sooty blotch and flyspeck fungi on apple."
-  image: dummy.png
-  description: ""
-  authors: Ismail SI, Batzer JC, Harrington TC, Crous PW, Lavrov DV, Li H, Gleason ML.
-  link:
-    url: https://doi.org/10.3852/15-0362
-    display: Mycologia 108(2):292-302, 2016.
-  highlight: 0
-
-- title: "Cytonuclear Interactions in the Evolution of Animal Mitochondrial tRNA Metabolism."
-  image: cymit.jpg
-  description: "Analysis of changes in the nuclear genomes resulting from losses of mt-tRNA genes."
-  authors: Pett W, Lavrov DV.
-  link:
-    url: https://doi.org/10.1093/gbe/evv124
-    display: Genome Biol Evol. 7(8):2089-101, 2015.
-  highlight: 0
-
-- title: "The Global Invertebrate Genomics Alliance (GIGA): Developing community resources to study diverse invertebrate genomes"
-  image: dummy.png
-  description: ""
-  authors: Global Invertebrate Genomics Alliance
-  link:
-    url: https://doi.org/10.1093/jhered/est084
-    display: Journal of Heredity 105(1):1-18, 2014.
-  highlight: 0
-
-- title: "Eight new mtDNA sequences of glass sponges reveal an extensive usage of +1 frameshifting in mitochondrial translation."
-  image: dummy.png
-  description: ""
-  authors: Haen KM, Pett W, Lavrov DV.
-  link:
-    url: https://doi.org/10.1016/j.gene.2013.10.041
-    display: Gene, 535(2):336-44, 2014.
-  highlight: 0
 
 # news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
 # news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+
