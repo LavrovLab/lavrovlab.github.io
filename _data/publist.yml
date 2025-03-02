@@ -17,14 +17,14 @@
   highlight: 1
 
 - title: "Expansion of the MutS gene family in plants"
-  image: msh1_plants.jpg
-  description: An adventure into the plant world 
+  image: msh_plants.jpg
+  description: An adventure into the plant world
   authors: Sloan DB, Broz AK, Kuster SA, Muthye V, Peñafiel-Ayala A, Marron JR, Lavrov DV, and LG Brieba
   link:
     url: https://doi.org/10.11646/zootaxa.5566.2.2
     display: The Plant Cell, koae277
   highlight: 1
-  
+
   - title: "Mitochondrial DNA of the Demosponge *Acanthella acuta*: Linear Architecture and Other Unique Features"
   image: aacuta.jpg
   description: The fourth transition to a linear mtDNA architecture in animals
